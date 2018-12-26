@@ -1,0 +1,20 @@
+body{
+	background-image: url(photo.jpg);
+}
+
+h1 {
+	font-family: 'Righteous', cursive;
+	color: white;
+text-align: center;
+transform: translate(0px, 200px);
+	font-size: 100px}
+
+	button{
+		color: black;
+		background-color: white;
+		border-radius: 20px;
+		padding: 20px;
+		margin: 100px;
+
+
+	}
